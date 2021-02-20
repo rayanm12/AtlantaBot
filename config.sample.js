@@ -1,10 +1,10 @@
 module.exports = {
 	/* The token of your Discord Bot */
-	token: "XXXXXXXXXXX",
+	token: "ODEwODc4Mjg2NzgyNjYwNjA4.YCqDQA.0FMn3vjm1E5jSiFWKNEkGyJ1Qik",
 	/* For the support server */
 	support: {
 		id: "XXXXXXXXXXX", // The ID of the support server
-		logs: "XXXXXXXXXXX", // And the ID of the logs channel of your server (new servers for example)
+		logs: "log", // And the ID of the logs channel of your server (new servers for example)
 	},
 	/* Dashboard configuration */
 	dashboard: {
